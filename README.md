@@ -1,16 +1,32 @@
-### Hi there 👋
+### Profile
 
-<!--
-**keepinmindsh/keepinmindsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###### 정승화 
 
-Here are some ideas to get you started:
+###### 현재 산하정보기술 재직중 / RD 팀장
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+***
+
+#### Introduction 
+
+ - 10년차 Software Architect 입니다.
+ - 늘 공부하고, 새로운 것을 배워 적용하는 것을 좋아합니다.
+ - 기차, 카페, 어디든 MacBook 하나 들고 가서 코딩하는 것을 좋아합니다.
+
+
+#### Cotact & Channel
+
+ - Email | keepinmindsh@gmail.com
+
+***
+
+  - GitHub | https://github.com/keepinmindsh
+ 
+
+#### 이력
+
+###### 
+
+
+
+
+
