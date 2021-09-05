@@ -20,6 +20,8 @@
  - Email | keepinmindsh@gmail.com
  - GitHub | https://github.com/keepinmindsh
 
+***
+
 #### Skills
 
 ### BackEnd
