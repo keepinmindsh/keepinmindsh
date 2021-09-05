@@ -13,20 +13,53 @@
  - 기차, 카페, 어디든 MacBook 하나 들고 가서 코딩하는 것을 좋아합니다.
 
 
+***
+
 #### Cotact & Channel
 
  - Email | keepinmindsh@gmail.com
+ - GitHub | https://github.com/keepinmindsh
 
-***
+#### Skills
 
-  - GitHub | https://github.com/keepinmindsh
+### BackEnd
+
+- Java, Python(ML), Node.js, Spark
+- Spring Boot, Spring MVC, Spring Batch, Spring Integration, Spring Kafka, etc ( Spring IO ) 
+- Gradle, Maven
+- IntelliJ, Eclipse, Pycharm, DBeaver, Visual Studio Code, Vim
+- Git, SVN, Source Tree, Tortoise SVN
+
+
+### DevOps
+
+ - Oracle, PostgreSQL, MySQL
+ - Linux, AWS
+ - Jenkins
+ - Hadoop 
+ - Apache, Tomcat 
+ - Container ( Docker / Kuberneties ) 
+ - VM ( Oracle VM / Vagrant )
+ - PinPoint, ELK  
+
+
+### FrontEnd
  
-
-#### 이력
-
-###### 
-
+  - Html5, CSS3(SCSS), JS(ES6+)
+  - ReactJS, SvelteJS
+  - TypeScript
 
 
+### Communication 
+
+   - Jira, Confluence
+   - Slack 
+   - Micro Teams 
 
 
+### Like
+
+   - Architecture
+     - reactive programming
+     - design pattern
+     - machine learning 
