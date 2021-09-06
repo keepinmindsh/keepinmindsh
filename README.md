@@ -65,3 +65,14 @@
      - reactive programming
      - design pattern
      - machine learning 
+
+
+***
+
+### Personal History
+
+ - Side Project
+   > React Native를 활용한 운동 타이머 개발 
+   > SveltJs / Spring Boot를 이용한 인맥 관리 사이트 개발 
+   > React Native를 활용한 음성 분석을 활용한 한글 교정 App 개발 
+
