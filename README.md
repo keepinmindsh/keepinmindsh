@@ -69,6 +69,23 @@
 
 ***
 
+### Company History 
+
+2011년 Vietnam Golf Project (Vantri) <http://www.vantrigolf.com.vn/>
+  > Developer
+  > C#, DotNet, Oracle, Visual Studio 
+
+2012년 차세대 WINGS 솔루션 개발 ( 웹 버전 호텔 관리 시스템 ) 
+  > Developer
+  > JSP, JAVA, Html, CSS, Jquery, Kendo Ui, Eclipse, SVN, Tomcat, Apache, Oracle
+
+2014년 차세대 Golf 솔루션 개발 ( 롯데 골프 시스템 납품 ) 
+  > Developer
+  > JSP, JAVA, Html, CSS, Jquery, Kendo Ui, Eclipse, SVN, Tomcat, Apache, Oracle, MSSQL
+  > DB Conversion ( Oracle -> MSSQL ) 
+
+작성중...
+
 ### Personal History
 
  - Side Project
