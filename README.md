@@ -11,6 +11,7 @@
  - 10년차 Software Architect 입니다.
  - 늘 공부하고, 새로운 것을 배워 적용하는 것을 좋아합니다.
  - 기차, 카페, 어디든 MacBook 하나 들고 가서 코딩하는 것을 좋아합니다.
+ - 물방울이 바위를 뚫는다는 사자성어를 좋아하고 꾸준함을 즐깁니다.
 
 
 ***
@@ -131,14 +132,16 @@
  - Engineer 
  - Educator 
  - System Design 
-   - RMS, OMA, PMS, 장비 연동, 표준 API, 배포 시스템, 기타 등등 
+ - RMS, OMA, PMS, 장비 연동, 표준 API, 배포 시스템, 기타 등등 
 
 ### Personal History
 
  - Side Project
    > React Native를 활용한 운동 타이머 개발     
    > SveltJs / Spring Boot를 이용한 인맥 관리 사이트 개발    
-   > React Native를 활용한 음성 분석을 활용한 한글 교정 App 개발    
+   > React Native를 활용한 음성 분석을 활용한 한글 교정 App 개발   
+   > 아이디어 관리를 위한 아이디어 관리 App 개발 
+   > 운동시 세트운동에 최적화된 운동터이머 개발 
 
 
 ### Like
