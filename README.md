@@ -125,6 +125,8 @@
   > Jenkins, GitLabs, Jira, Confluence 도입 
   > 업무 자동화, 배포 자동화(CI/CD) 
 
+- Legacy 소스 전환 
+
 ### Role
 
  - Software Architect
