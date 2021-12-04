@@ -125,7 +125,9 @@
   > Jenkins, GitLabs, Jira, Confluence 도입 
   > 업무 자동화, 배포 자동화(CI/CD) 
 
-- Legacy 소스 전환 
+- Legacy 청산을 위한 업무 수행 
+  > CI/CD
+  > OpenJdk 최신버전 적용 필요 
 
 ### Role
 
