@@ -151,13 +151,14 @@
 
 ### Like
 
-  - Design Pattern ( base on GOF )
+  - Design Pattern ( base on GOF ) 
   - OOP / AOP
   - Reactive Programming 
   - Machine Leaning
   - Block Chain 
   - Making Sample 
   - Leaning New Things 
-  - Kotlin/kotlin spring 
+  - Kotlin/kotlin spring ( 2021-10 ~ ) 
     - ktor
+  - JPA ( 2022 ~ 
 
