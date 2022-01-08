@@ -147,12 +147,13 @@
    > 아이디어 관리를 위한 아이디어 관리 App 개발 
    > 운동시 세트운동에 최적화된 운동타이머 개발 
    > 프로잭트 관리를 위한 웹 페이지 개발 
+   > 고전강독 스트리민 서비스 
 
 
 ### Like
 
   - Design Pattern ( base on GOF ) 
-  - OOP / AOP
+  - OOP Programming
   - Reactive Programming 
   - Machine Leaning
   - Block Chain 
