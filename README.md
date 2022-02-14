@@ -162,7 +162,8 @@
   - Leaning New Things 
   - Kotlin/kotlin spring ( 2021-10 ~ ) 
     - ktor
-  - JPA ( 2022 ~ 
+  - JPA ( 2022 ~ )
+  - nextjs
 
 
 ### 2022년 계획
