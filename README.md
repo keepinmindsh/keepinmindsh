@@ -160,13 +160,14 @@
   - Block Chain 
   - Making Sample 
   - Leaning New Things 
-  - Kotlin/kotlin spring ( 2021-10 ~ ) 
+  - Kotlin/kotlin Spring
     - ktor
-  - JPA ( 2022 ~ )
+  - JPA 
   - nextjs
 
 
 ### 2022년 계획
 
  - 미래의 먹거리 준비 
+ - 간단 추천 기능 개발 ( 2022-02-21 ~ ) 
 
