@@ -130,6 +130,10 @@
   > CI/CD
   > OpenJdk 최신버전 적용 필요 
 
+- NextJS 기반의 코드리뷰시스템 개발 
+  > Jenkins 연계
+  > 타입그크립트, JPA 적용 
+
 ### Role
 
  - Software Architect
