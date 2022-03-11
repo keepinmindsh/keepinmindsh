@@ -134,6 +134,10 @@
   > Jenkins 연계
   > 타입그크립트, JPA 적용 
 
+- OMA 연동 시스템 기능 개발 및 기획, 설계
+  > NextJS
+  > MyBatis, Spring Boot
+
 ### Role
 
  - Software Architect
@@ -175,4 +179,3 @@
  - 미래의 먹거리 준비 
  - 간단 추천 기능 개발 ( 2022-02-21 ~ ) 
  - 접수시스템 개발 ( nextjs , jpa )
-
