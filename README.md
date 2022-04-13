@@ -138,6 +138,8 @@
   > NextJS
   > MyBatis, Spring Boot
 
+- New Wings 시작
+
 ### Role
 
  - Software Architect
