@@ -75,7 +75,7 @@
 
 - Vietnam Golf Project (Vantri) <http://www.vantrigolf.com.vn/>
   > C#, DotNet, Oracle, Visual Studio 
-  > WINGS 골프 시스템 메인 화면 개발 담당
+  > Client - Server 기반의 .Net 프로젝트 수행 
 
 - 차세대 WINGS 솔루션 개발/공통/아키텍처 설계 ( 웹 버전 호텔 관리 시스템 ) 
   > JSP, JAVA, Html, CSS, Jquery, Kendo Ui, Eclipse, SVN, Tomcat, Apache, Oracle
