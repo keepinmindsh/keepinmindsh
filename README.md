@@ -70,6 +70,14 @@
      - design pattern
      - machine learning 
 
+    
+<!--Snake Animation!-->
+### 🐍 A Snake Eating Away my Contributions
+
+![Snake animation](https://github.com/Lucbm99/Lucbm99/blob/output/github-contribution-grid-snake.svg)
+
+##
+
 
 ***
 
