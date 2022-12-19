@@ -77,72 +77,75 @@
 
 ### Company History 
 
-- Vietnam Golf Project (Vantri) <http://www.vantrigolf.com.vn/>
-  > C#, DotNet, Oracle, Visual Studio 
-  > Client - Server 기반의 .Net 프로젝트 수행 
+- Sanha IT 
 
-- 차세대 WINGS 솔루션 개발/공통/아키텍처 설계 ( 웹 버전 호텔 관리 시스템 ) 
-  > JSP, JAVA, Html, CSS, Jquery, Kendo Ui, Eclipse, SVN, Tomcat, Apache, Oracle
+  - Vietnam Golf Project (Vantri) <http://www.vantrigolf.com.vn/>
+    > C#, DotNet, Oracle, Visual Studio 
+    > Client - Server 기반의 .Net 프로젝트 수행 
 
-- 차세대 Golf 솔루션 개발 ( 롯데 골프 시스템 납품 ) 
-  > JSP, JAVA, Html, CSS, Jquery, Kendo Ui, Eclipse, SVN, Tomcat, Apache, Oracle, MSSQL
-  > DB Conversion ( Oracle -> MSSQL ) 
+  - 차세대 WINGS 솔루션 개발/공통/아키텍처 설계 ( 웹 버전 호텔 관리 시스템 ) 
+    > JSP, JAVA, Html, CSS, Jquery, Kendo Ui, Eclipse, SVN, Tomcat, Apache, Oracle
 
-- 신용카드 Java 모듈 개발 
-  > Java, Spring, Socket, Rest API, Logging 
+  - 차세대 Golf 솔루션 개발 ( 롯데 골프 시스템 납품 ) 
+    > JSP, JAVA, Html, CSS, Jquery, Kendo Ui, Eclipse, SVN, Tomcat, Apache, Oracle, MSSQL
+    > DB Conversion ( Oracle -> MSSQL ) 
 
-- 해외 PMS 시스템 개발/공통 아키텍처 설계
-  > JSP, Java, Spring
+  - 신용카드 Java 모듈 개발 
+    > Java, Spring, Socket, Rest API, Logging 
 
-- Global Distributed System 연동 인터페이스 설계/개발 
-  > Spring Boot, REST API 
+  - 해외 PMS 시스템 개발/공통 아키텍처 설계
+    > JSP, Java, Spring
 
-- 장비연동 인터페이스 설계 / 개발 
-  > Window Service, Java, Spring, API, Oracle DB
+  - Global Distributed System 연동 인터페이스 설계/개발 
+    > Spring Boot, REST API 
 
-- FrontEnd 시스템 언어 전환 / 구성
-  > CMS 2.0, RMS, 사내 시스템 구축 - ReactJS, NodeJS, Webpack, Jenkins
+  - 장비연동 인터페이스 설계 / 개발 
+    > Window Service, Java, Spring, API, Oracle DB
 
-- OMA 시스템 개발 
-  > Crawling, Spring Boot, JPA/QueryDSL, Jenkins, ReactJS
+  - FrontEnd 시스템 언어 전환 / 구성
+    > CMS 2.0, RMS, 사내 시스템 구축 - ReactJS, NodeJS, Webpack, Jenkins
 
-- 표준 통합 API 시스템 구성 
-  > Netflix OSS with Spring, Jenkins, GitLabs, REST API, TDD, Gradle, Nexus Repository , Kafka, Redis 
-  > Modula Monolith 
+  - OMA 시스템 개발 
+    > Crawling, Spring Boot, JPA/QueryDSL, Jenkins, ReactJS
 
-- ISMS-P 인증 체계 구축 
-  > Linux, Java, Microservice, Encryption(KMS), Apache, Tomcat, Jdk , Logging
+  - 표준 통합 API 시스템 구성 
+    > Netflix OSS with Spring, Jenkins, GitLabs, REST API, TDD, Gradle, Nexus Repository , Kafka, Redis 
+    > Modula Monolith 
 
-- PCI-DSS 인증 체계 구축
-  > Linux, Java, Microservice, Apache, Tomcat, Jdk 
+  - ISMS-P 인증 체계 구축 
+    > Linux, Java, Microservice, Encryption(KMS), Apache, Tomcat, Jdk , Logging
 
-- Channel Management System API 구축
-  > 아키텍처 설계
-  > 핵심 연동 모듈 개발 
+  - PCI-DSS 인증 체계 구축
+    > Linux, Java, Microservice, Apache, Tomcat, Jdk 
 
-- 외부 연동 인터페이스 개발 
-  > TL 링칸, 인더코어, 승은 ENT, RMS 오토마이즈, 넷판, 카카오페이, 위쳇페이 기타 등등 
+  - Channel Management System API 구축
+    > 아키텍처 설계
+    > 핵심 연동 모듈 개발 
 
-- RMS ( 가격 수요 예측 모델 개발 ) 
-  > python for ML, Hadoop, Apache Spark, Redis, React JS
+  - 외부 연동 인터페이스 개발 
+    > TL 링칸, 인더코어, 승은 ENT, RMS 오토마이즈, 넷판, 카카오페이, 위쳇페이 기타 등등 
 
-- 개발 문화 
-  > Jenkins, GitLabs, Jira, Confluence 도입 
-  > 업무 자동화, 배포 자동화(CI/CD) 
+  - RMS ( 가격 수요 예측 모델 개발 ) 
+    > python for ML, Hadoop, Apache Spark, Redis, React JS
 
-- Legacy 청산을 위한 업무 수행 
-  > CI/CD
-  > OpenJdk 최신버전 적용 필요 
+  - 개발 문화 
+    > Jenkins, GitLabs, Jira, Confluence 도입 
+    > 업무 자동화, 배포 자동화(CI/CD) 
 
-- NextJS 기반의 코드리뷰시스템 개발 
-  > Jenkins 연계
-  > 타입그크립트, JPA 적용 
+  - Legacy 청산을 위한 업무 수행 
+    > CI/CD
+    > OpenJdk 최신버전 적용 필요 
 
-- OMA 연동 시스템 기능 개발 및 기획, 설계
-  > NextJS
-  > MyBatis, Spring Boot
+  - NextJS 기반의 코드리뷰시스템 개발 
+    > Jenkins 연계
+    > 타입그크립트, JPA 적용 
 
-- New Wings 시작
+  - OMA 연동 시스템 기능 개발 및 기획, 설계
+    > NextJS
+    > MyBatis, Spring Boot
+
+- Swit Korea 
+
 
 ### Role
 
@@ -163,6 +166,7 @@
    > 운동시 세트운동에 최적화된 운동타이머 개발 
    > 프로잭트 관리를 위한 웹 페이지 개발 
    > 고전강독 스트리밍 서비스 
+   > Every Alarm 
 
 
 ### Like
@@ -180,11 +184,11 @@
   - nextjs
 
 
-### 2022년 계획
+### 현재 하고 있는 일 
 
- - 미래의 먹거리 준비 
- - 간단 추천 기능 개발 ( 2022-02-21 ~ ) 
- - 접수시스템 개발 ( nextjs , jpa )
- - 모든것은 마음먹기 나름이라더라.
- - 늘 무슨일을 할때 상대방을 생각하라.
- - 모든 것은 다 때가 있는법
+ - 회사 업무 ( Backend Engineer ) 
+ - Infra 스터디 ( 쿠버네티스 자격증 스터디 ) 
+ - Side Projects 스터디 
+ - 개인 공부 
+   - 대규모 시스템에서 안정적으로 운영할 수 있는 시스템 개발 
+
