@@ -147,6 +147,7 @@
 - Swit Korea 
 
   - EKM Project 진행 
+    > golang, gcp kms
 
 
 ### Role
