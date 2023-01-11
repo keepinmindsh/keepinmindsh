@@ -192,6 +192,8 @@
  - 회사 업무 ( Backend Engineer ) 
  - Infra 스터디 ( 쿠버네티스 자격증 스터디 ) 
  - Side Projects 스터디 
+   - Every Alarm 개발  
  - 개인 공부 
    - 대규모 시스템에서 안정적으로 운영할 수 있는 시스템 개발 
+   
 
