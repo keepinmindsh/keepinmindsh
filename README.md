@@ -149,6 +149,9 @@
   - EKM Project 진행 
     > golang, gcp kms
 
+  - Multi Cloud Support ( with Onprem ) 
+    > kafka , terraform 
+
 
 ### Role
 
