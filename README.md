@@ -148,7 +148,7 @@
     > golang, gcp kms
 
   - Multi Cloud Support ( with Onprem ) 
-    > kafka , terraform 
+    > kafka, terraform, gcp, aws, azure
 
 
 ### Role
