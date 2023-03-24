@@ -150,6 +150,9 @@
   - Multi Cloud Support ( with Onprem ) 
     > kafka, terraform, gcp, aws, azure
 
+  - Support / Backend Management 
+    > reactjs, nextjs, grpc
+
 
 ### Role
 
