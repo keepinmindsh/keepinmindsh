@@ -67,7 +67,8 @@
      - reactive programming
      - design pattern
      - machine learning 
-
+   - AI / MlOps  
+     
   
 
 
