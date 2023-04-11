@@ -21,6 +21,7 @@
 
  - Email | keepinmindsh@gmail.com
  - GitHub | https://github.com/keepinmindsh
+ - Tistory | https://1lines.tistory.com/
 
 ***
 
