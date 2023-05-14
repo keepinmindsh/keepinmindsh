@@ -29,11 +29,11 @@
 
 ### BackEnd
 
-- Java, Python(ML), Node.js, Spark
+- Java, Golang, Javascript 
 - Spring Boot, Spring MVC, Spring Batch, Spring Integration, Spring Kafka, etc ( Spring IO ) 
 - Gradle, Maven
 - IntelliJ, Eclipse, Pycharm, DBeaver, Visual Studio Code, Vim
-- Git, SVN, Source Tree, Tortoise SVN
+- GitHub - Enterprise, Git, SVN, Source Tree, Tortoise SVN
 
 
 ### DevOps
@@ -43,9 +43,10 @@
  - Jenkins
  - Hadoop 
  - Apache, Tomcat 
- - Container ( Docker / Kuberneties ) 
+ - Container ( Docker / Kubernetes ) 
  - VM ( Oracle VM / Vagrant )
- - PinPoint, ELK  
+ - Servie Mesh base on Istio 
+ - GCP Apps 
 
 
 ### FrontEnd
