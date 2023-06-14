@@ -151,12 +151,16 @@
   - EKM Project 진행 
     > golang, gcp kms
 
-  - Multi Cloud Support ( with Onprem ) 
+  - 2023.01 ~ 2023.12 Multi Cloud Support ( with Onprem ) 
+    > 멀티 클라우드 플랫폼 환경에서 동작할 수 있는 시스템으로 개선하기 위한 Core 개발 수행 
     > kafka, terraform, gcp, aws, azure
 
-  - Support / Backend Management 
+  - 2023.02 ~ 2023.09 Support / Backend Management 
+    > React를 기반으로 하는 신규 Support Page에 대한 구성 및 환경 세팅 
     > reactjs, nextjs, grpc
 
+  - 2022.10 ~  Refactoring ( Legacy 청산 ) 
+    > Legacy 환경에 대한 Refactoring을 통한 코드 및 프로세스, 아키텍처 개선 
 
 ### Role
 
