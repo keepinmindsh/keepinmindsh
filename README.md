@@ -164,7 +164,7 @@
     > Golang, Imap, Redis Cluster 
 
   - 2022.10 ~  Refactoring ( Legacy 청산 ) 
-    > Legacy 환경에 대한 Refactoring을 통한 코드 및 프로세스, 아키텍처 개선 
+    > Legacy 환경에 대한 Refactoring을 통한 코드 및 프로세스, 아키텍처 개선
 
 ### Role
 
@@ -190,7 +190,8 @@
 
 ### Like
 
-  - Design Pattern ( base on GOF ) 
+  - Design Pattern ( base on GOF )
+  - Cloud Native 
   - OOP Programming
   - Reactive Programming 
   - Machine Leaning
@@ -206,10 +207,11 @@
 ### 현재 하고 있는 일 
 
  - 회사 업무 ( Backend Engineer ) 
- - Infra 스터디 ( 쿠버네티스 자격증 스터디 ) 
+ - Infra 스터디 ( 쿠버네티스 자격증 스터디 )
+   - CKA 자격증 준비 ( ~ 2023.11 ) 
  - Side Projects 스터디 
-   - Every Alarm 개발  
-   - GPT 연동 App 개발 
+   - GPT 연동 App 개발
+   - Lines Admin 홈페이지 개발 
  - 개인 공부 
    - 대규모 시스템에서 안정적으로 운영할 수 있는 시스템 개발 
    - Stock Automation
