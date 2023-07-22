@@ -43,15 +43,47 @@
 
 경력 
 
+## Sanha IT 
+
+## Swit 
 
 *** 
 
 프로젝트 
 
+## 골프 솔루션 개발 
+
+## 호텔 솔루션 PMS 시스템 개발 
+
+## 신용카드 / 단말기 연동 인터페이스 개발 
+
+## Global Distributed System 연동을 위한 인터페이스 개발 
+
+## 통합 예약을 위한 온라인 마케팅 솔루션 개발
+
+## Vendor 연동을 위한 파트너 API 인터페이스 구축 
+
+## ISMS-P 인증 체계 구축을 위한 Legacy 개선 
+
+## PCI-DSS 인증 체게 구축을 위한 Legacy 개선 
+
+## CI/CD 인프라 검토 및 구성 
+
+## 데이터 암복호화를 위한 Cloud KMS 연동 및 도메인 적용 
+
+## Support 시스템 연동 및 구성 
+
+## Imap 연동을 위한 플러그인 개발 
+
+## Legacy 청산을 위한 Backend Renewal 
+
+## Multi Cloud 환경에서 동작하는 시스템 구현 
 
 *** 
 
 대외활동 
+
+## 고등학교 IT 강사 활동 수행 
 
 
 
