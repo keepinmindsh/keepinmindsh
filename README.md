@@ -52,7 +52,7 @@
 
 ***
 
-# Experience 
+# Careers 
 
 ## Sanha IT 
 
@@ -72,7 +72,7 @@
 
 *** 
 
-# Projects 
+# Work Experience & Projects  
 
 ## 산하정보기술 
 
@@ -114,15 +114,21 @@ WorkOS를 표방하는 나의 일과 사람을 연결해주는 협업 플랫폼
 
 ### Swit 서비스 안정화
 
+***
+
+# Private Experience & Projects 
+
+
+
 *** 
 
-대외활동 
+# My Activity 
 
-### 고등학교 IT 강사 활동 수행 
+## 고등학교 IT 강사 활동 수행 
 
-### Lines 세미나 진행하기 
+## Lines 세미나 진행하기 
 
-### "니가 잘될 수 있게 어떻게든 도와줄게" 멘토링 
+## "니가 잘될 수 있게 어떻게든 도와줄게" 멘토링 
 
 *** 
 
