@@ -118,8 +118,6 @@ WorkOS를 표방하는 나의 일과 사람을 연결해주는 협업 플랫폼
 
 # Private Experience & Projects 
 
-
-
 *** 
 
 # My Activity 
