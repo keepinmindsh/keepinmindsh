@@ -60,7 +60,11 @@
 
 ## Swit 
 
-2022년 11월 ~ , 재직중, Backend Engineer 업무 수행 ( 현재 진행형 ) 
+2022년 11월 ~ 2024년 7월, Backend Engineer 업무 수행 ( 1년 8개월 ) 
+
+## THE Platforms 
+
+2024년 7월 ~ , CTO
 
 ***
 
