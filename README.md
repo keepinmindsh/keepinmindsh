@@ -35,12 +35,19 @@
 
 - [내가 정리하고, 할 수 있는 것들]()
 
+# Education 
+
+- 충남대학교
+- 숭실대학원 핀테크융합학과 석사 
+
 # Soft Skil
 
 - 산하정보기술 R&D 연구소 본부장 업무 수행 ( 2020 ~ 2022.10 ) 
   - R&D 조직 및 운영 경험 보유 
-- Swit Backend Dev Lead 역할 수행 ( 2022.10 ~ 현재 )
-  - Backend 개발 Lead 역할 수행 
+- Swit Backend Dev Lead 역할 수행 ( 2022.10 ~ 2023.07 )
+  - Backend 개발 Lead 역할 수행
+  - Swit MySnap 개발
+- The Platforms.io CTO  
   
 ***
 
