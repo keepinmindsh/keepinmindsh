@@ -17,7 +17,7 @@
 # Hard Skill 
 
 - Backend
-  - Go, Java
+  - Go, Java, Python 
   - Mysql, Oracle    
 - Frontend
   - React 
