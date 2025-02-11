@@ -125,6 +125,12 @@ WorkOS를 표방하는 나의 일과 사람을 연결해주는 협업 플랫폼
 
 ### Swit 서비스 안정화
 
+# 더플랫폼즈 
+
+## 비디퍼이 개발 
+## 아임닥터 플랫폼 개발 
+## Back Office 플랫폼 개발
+
 ***
 
 # Private Experience & Projects 
