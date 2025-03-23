@@ -67,13 +67,26 @@
 
 2011년 11월 ~ 2022년 10월, R&D 사업본부 본부장 업무 수행 ( 10년 ) 
 
+### Roles 
+
 ## Swit 
 
 2022년 11월 ~ 2024년 7월, Backend Engineer 업무 수행 ( 1년 8개월 ) 
 
+### Roles
+
+- Backend Core Engineer
+- AI Core Engineer 
+
 ## THE Platforms 
 
 2024년 7월 ~ , CTO
+
+### Roles
+
+- 아키텍처 설계 및 구현
+- Backend Engineer
+- Project 전체 진행 총괄 및 운영 
 
 *** 
 
