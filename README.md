@@ -30,6 +30,8 @@
   - Airflow
 - CI/CD
   - GitOps, ArgoCD
+- AI
+  - Langchain, Langraph  
  
 # If I have two week, I can bellow 
 
@@ -73,14 +75,6 @@
 
 2024년 7월 ~ , CTO
 
-***
-
-# Prolem & Solvings 
-
-***
-
-
-
 *** 
 
 # Work Experience & Projects  
@@ -90,61 +84,38 @@
 호스피탈리티 솔루션을 보유한 국내의 주요 업체 
 
 ### 골프 솔루션 개발 
-
 ### 호텔 솔루션 PMS 시스템 개발 
-
 ### 신용카드 / 단말기 연동 인터페이스 개발 
-
 ### Global Distributed System 연동을 위한 인터페이스 개발 
-
 ### 통합 예약을 위한 온라인 마케팅 솔루션 개발
-
 ### 고객 및 기초 데이터 관리를 위한 통합 관리 시스템 구축 
-
 ### Vendor 연동을 위한 파트너 API 인터페이스 구축 
-
 ### ISMS-P 인증 체계 구축을 위한 Legacy 개선 
-
 ### PCI-DSS 인증 체게 구축을 위한 Legacy 개선 
-
 ### CI/CD 인프라 검토 및 구성 
+
+***
 
 ## 스윗
 
 WorkOS를 표방하는 나의 일과 사람을 연결해주는 협업 플랫폼 
 
 ### 데이터 암복호화를 위한 Cloud KMS 연동 및 도메인 적용 
-
 ### Support 시스템 연동 및 구성 
-
 ### Imap 연동을 위한 플러그인 개발 
-
 ### Legacy 청산을 위한 Backend Renewal 
-
 ### Multi Cloud Platform 서비스 구현 
-
 ### Swit 서비스 안정화
-
-# 더플랫폼즈 
-
-## 비디퍼이 개발 
-## 아임닥터 플랫폼 개발 
-## Back Office 플랫폼 개발
 
 ***
 
-# Private Experience & Projects 
+## 더플랫폼즈 
 
-*** 
+### 삼성 Nas Migration 수행 
+### LG CNS VS 생성형 AI 구현/개발 
+### 비디파이(Bidfy) 개발 
+### 아임닥터 플랫폼(ImdrPlatforms) 개발 
+### Back Office 플랫폼 개발
+### 의료광관 플랫폼 개발 
 
-# My Activity 
-
-## 고등학교 IT 강사 활동 수행 
-
-## Lines 세미나 진행하기 
-
-## "니가 잘될 수 있게 어떻게든 도와줄게" 멘토링 
-
-*** 
-
-자격증 
+***
