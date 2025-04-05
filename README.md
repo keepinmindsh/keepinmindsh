@@ -24,7 +24,7 @@
 - Mobile
   - Flutter  
 - Infrastructure
-  - Google Cloud Platform, Naver Cloud Platform, Amazon Web Service
+  - Google Cloud Platform, Naver Cloud Platform, Amazon Web Service, Azure
   - Kubernetes
 - Workflow
   - Airflow
