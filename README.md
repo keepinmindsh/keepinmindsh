@@ -125,10 +125,11 @@ WorkOS를 표방하는 나의 일과 사람을 연결해주는 협업 플랫폼
 ### 더플랫폼즈 
 
 #### 삼성 Nas Migration 수행 
-#### LG CNS VS 생성형 AI 구현/개발 
+#### LG CNS VS 생성형 AI 구축 
 #### 비디파이(Bidfy) 개발 
 #### 아임닥터 플랫폼(ImdrPlatforms) 개발 
 #### Back Office 플랫폼 개발
 #### 의료광관 플랫폼 개발 
+#### KT 인재마스터 포털 AI 구축 ( LLM 적임자 찾기 ) 
 
 ***
